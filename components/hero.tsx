@@ -40,9 +40,10 @@ export function Hero() {
           <a
             href={profile.resumePath}
             download={profile.resumeFileName}
-            className={`${buttonBase} border-border bg-card hover:bg-secondary`}
+            className="inline-flex h-11 items-center gap-2.5 rounded-xl border border-border bg-card px-5 text-[15px] font-medium text-foreground transition-all hover:-translate-y-px hover:bg-secondary focus-visible:outline-2 focus-visible:outline-offset-2"
           >
-            <FileText className="size-3.5" aria-hidden="true" /> Download Resume
+            <FileText className="size-[18px]" aria-hidden="true" />
+            Download Resume
           </a>
           <a href="#contact" className={`${buttonBase} border-border bg-card hover:bg-secondary`}>
             {"Let's Talk"} <Send className="size-3.5" aria-hidden="true" />
