@@ -26,7 +26,7 @@ export const education = [
   {
     period: '2023 — 2027',
     title: 'Bachelor of Computer Science',
-    detail: 'Artificial Intelligence & Full Stack Development · Chaitanya Deemed to be University',
+        detail: 'Chaitanya Deemed to be University',
   },
   {
     period: '2021 — 2023',
@@ -34,7 +34,7 @@ export const education = [
     detail: 'Sr. Junior College · 94%',
   },
   {
-    period: '2006 — 2021',
+    period: '2009 - 2021',
     title: 'SSC',
     detail: 'Geetham Concept School · 98%',
   },
