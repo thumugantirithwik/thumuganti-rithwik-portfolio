@@ -34,7 +34,7 @@ export const education = [
     detail: 'Sr. Junior College · 94%',
   },
   {
-    period: '2006 — 2021',
+    period: '2009 - 2021',
     title: 'SSC',
     detail: 'Geetham Concept School · 98%',
   },
